@@ -8,7 +8,7 @@ export default function Home() {
       <div className="flex-1 container max-w-6xl mx-auto p-4 py-8">
         <div className="text-center mb-8">
           <h1 className="text-3xl font-bold mb-2 text-gray-800">Game Recommendation Chatbot</h1>
-          <p className="text-gray-600 max-w-2xl mx-auto">c
+          <p className="text-gray-600 max-w-2xl mx-auto">
           By: Nitin Srinivas 20 12308380 | Aryajeet Kumar 19 12306006 | Sonam Biswas 18 12306944 | K23PS
           </p>
         </div>
