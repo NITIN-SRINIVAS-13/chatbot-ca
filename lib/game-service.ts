@@ -1,6 +1,6 @@
 "use server"
 
-const RAWG_API_KEY = "a6e1085aedf440a4843d07c604b7d6ad"
+const RAWG_API_KEY = "fd11a676d83a40edb7b71e6595c9abda"
 const API_BASE_URL = "https://api.rawg.io/api"
 
 // List of common game genres
